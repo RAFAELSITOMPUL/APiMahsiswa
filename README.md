@@ -99,5 +99,6 @@ Terima kasih telah menggunakan aplikasi ini! 🌟
 
 ---
 
-Jika kamu ingin, saya juga bisa bantu membuat file `LICENSE`, struktur `bottom_nav_menu.xml`, atau bagian Java seperti `MainActivity
+Jika kamu ingin, saya juga bisa bantu membuat file `LICENSE`, struktur "bottom_nav_menu.xml", atau bagian Java seperti "MainActivity
+
 ![Screenshot (29)](https://github.com/user-attachments/assets/bbedef53-6acf-49dd-99b6-e22b1534fe19)
